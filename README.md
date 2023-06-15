@@ -1,57 +1,62 @@
-<!-- Header -->
-<h1 align="center">
-  Welcome to The Mev's GitHub Profile
-</h1>
+<!-- Your Name -->
+<h1 align="center">👋 Hello! I'm The Mev</h1>
 
-<!-- Badges -->
+<!-- Your Introduction -->
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/mevdeveloper?label=Followers&style=social">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TheMev?style=social">
+  <samp>Passionate Developer | Open Source Enthusiast | Tech Lover</samp>
 </p>
 
-<!-- Introduction -->
+<!-- Social Media Links -->
 <p align="center">
-  Hi there! 👋 I'm The Mev, a passionate developer who loves coding and creating innovative solutions. Welcome to my GitHub profile!
-</p>
-
-<!-- Technologies -->
-<h2 align="center">Technologies and Tools</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/React-%23282C34.svg?style=flat&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white">
-</p>
-
-<!-- GitHub Stats -->
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheMev&show_icons=true&count_private=true&hide_border=true&theme=dark">
-</p>
-
-<!-- Contact Me -->
-<h2 align="center">Get in Touch</h2>
-<p align="center">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white">
+  <a href="https://t.me/the_mevan">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://twitter.com/TheMev">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white">
+  <!-- Uncomment the following lines if you have other social media profiles -->
+  <!--
+  <a href="https://twitter.com/your_twitter_username">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white">
+  -->
+  <a href="https://github.com/Mevdevoloper">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub">
   </a>
+</p>
+
+<!-- About Me -->
+<p align="center">
+  Hi, I'm The Mev, a passionate developer from [Your Location]. I love building innovative software solutions and exploring new technologies. Welcome to my GitHub profile!
+</p>
+
+<!-- My Interests -->
+<h3 align="center">🚀 My Interests</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="300">
+</p>
+<p align="center">
+  Here are a few technologies I enjoy working with:
+</p>
+<p align="center">
+  <code>Python</code> | <code>JavaScript</code> | <code>React</code> | <code>Node.js</code> | <code>Django</code> | <code>HTML</code> | <code>CSS</code>
+</p>
+
+<!-- My Stats -->
+<h3 align="center">📈 My GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mevdevoloper&show_icons=true&theme=dracula" alt="GitHub Stats">
+</p>
+
+<!-- My Projects -->
+<h3 align="center">🔨 My Projects</h3>
+<p align="center">
+  Here are a few projects I'm proud of:
+</p>
+<p align="center">
+  <a href="https://github.com/Mevdevoloper/project-1">Project 1</a> |
+  <a href="https://github.com/Mevdevoloper/project-2">Project 2</a> |
+  <a href="https://github.com/Mevdevoloper/project-3">Project 3</a>
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=TheMev.TheMev">
+  Thanks for visiting! Let's connect and collaborate.
 </p>
-
-
-<!---
-Mevdevoloper/Mevdevoloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
